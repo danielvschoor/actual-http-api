@@ -16,6 +16,6 @@
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^17.0.1"
   }
 }
